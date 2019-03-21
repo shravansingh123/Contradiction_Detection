@@ -1,0 +1,282 @@
+affected_people
+deaths_reports
+disease_signs_or_symptoms
+disease_transmission
+not_related_or_irrelevant
+other_userful_information
+prevention
+treatment
+
+disease_transmission:
+no:151 RT @CDCemergency: Ebola Fact: A person infected with #Ebola is not contagious until symptoms appear.  http://t.co/1zZJaP6HSa http://t.co/SBâ€¦
+other useful information
+577
+
+587 RT @moneyries: #Breaking: Patient kept in isolation at NYC's Mount Sinai Hospital has tested negative for #Ebola Virus Disease, CDC determiâ€¦
+other useful information or affected_people
+
+694 4Chanâ€™s latest, terrible 'prank': Convincing West Africans that Ebola doctors actually worship the disease http://t.co/j7nLrrlmYo
+not related or irrelevant
+
+1603 Obama doesn't need to release a disease to kill people. We're doing a fine job killing ourselves. #ebola #stopblamingobama
+not related or irrelevant
+
+1731 @DrNickTran_ Too many fools are trying to label healthy respect for a deadly disease as "panic". No it's just common sense. #ebola
+not related or irrelevant
+
+1840 @WashTimes Nurses nationwide have made it clear. In response to #Ebola: We are NOT ready for this disease. http://t.co/2XlnlAcoK7"
+other useful information
+
+affected_people:
+83 I liked a @YouTube video http://t.co/8L67TydBIX Why do Bats Transmit so many Diseases like Ebola?
+disease_transmission
+
+107 RT @NigeriaNewsdesk: [TheTrent]  BREAKING NEWS: 2 Dead, 20 Hospitalised Over High Salt Consumption For Ebola Prevention http://t.co/6zIX1Ylâ€¦
+deaths_reports
+
+215 "@EL_Maimx: Yes. I would !"@Questionnier: Will you breakup with your BF/GF if they contact Ebola ? #QnA""lmaoo dama can ba true love baneh
+other_useful_information
+
+1843 New #Ebola detection scanning device credited with eradicating disease. http://t.co/H2JGifrNnq
+treatment
+
+1877 RT @Fong4Life: Fong4Life in collab with the Epidemiology and Disease Control Centre currently training about 30 youth on #ebola sensitisatiâ€¦
+other_useful_information OR prevention
+
+disease_signs_or_symptoms:
+31 Epidemiology and surveillance  Between 2 and 4 August 2014, a total of 108 new cases of Ebola virus disease... http://t.co/8KCNpqygVI
+affected_people
+
+121 RT @RT_America: Second Dallas nurse with #Ebola took flight with 132 passengers day before showing symptoms http://t.co/UQY6KyDCeT http://tâ€¦
+affected_people ??
+
+1240 1. I got an authentic information that one of the Banks around Synagogue, Ikotun,Lagos has one of its staff down with Ebola symptoms.
+affected_people as it is refering the person affected not the symoptoms it was showing
+
+1250 Ebola in Canada? Patient returning from virus-stricken West Africa is being tested for the disease http://t.co/qkytjz88AG
+affecte_people
+
+1254 RT @AlArabiya_Eng: A #Saudi man who was admitted to hospital with symptoms suggesting possible #Ebola died on Wednesday. http://t.co/fjQ8qXâ€¦
+death_reports
+
+1275 RT @PopWrapped: ICYMI: #Ebola Strikes Again: Texas Nurse Tests Positive For Fatal Disease (STORY) http://t.co/Gcu8h2GHVy
+affectd_people
+1321 RT @FoxNews: More than 100 monitored for #Ebola symptoms in #Ohio: http://t.co/IYu3EiTEUQ
+affected_people
+
+1502 . @Yale student who recently returned from a research trip to #Liberia in isolation w/ #Ebola like symptoms. http://t.co/iScE4CzcBT
+affected_people
+
+1574 RT @jerome_corsi: Frontier Air puts 6 crew on leave w #Ebola worry http://t.co/qAhZwyvXY3 CDC tells Frontier nurse Vinson had symptoms in fâ€¦
+affected_people
+1615 RT @NBCPhiladelphia: Yale student hospitalized with #Ebola-like symptoms: http://t.co/ia71eHdjMG
+
+1949 RT @LibertysLite: Reported boyfriend of 1st infected nurse admitted to hospital w/ #ebola like symptoms. #tcot #EbolaDallas #EbolaOutbreak â€¦
+
+1973 RT @FahmidaIqbal: Symptoms of #Ebola. May Allah save this country http://t.co/MC9pRcwnuX
+not_related_or_irrelevant
+
+deaths_reports:
+
+RT @newschannelnine: RT @SkyNewsBreak  U.S. Authorities: 2 #ebola patients had extensive contact w/ man who died from disease when he was aâ€¦
+disease_transmission:
+
+1453 RT @IanMakay: Your donation to our #Ebola Response Fund will help children who lose their parents to the disease:... http://t.co/CZ3Is8Y6zD
+other_useful_information
+
+1479 RT @MiaFarrow: US doctor, Ebola victim: 'I held the hands of countless individuals as this terrible disease took their lives'. http://t.co/â€¦
+other_useful_information or affected_people or death_reports
+
+1552 RT @TulipMazumdar: WHO announces it will explore the use of experimental treatment for Ebola. More than 900 deaths in W Africa and rising #â€¦
+treatment or deaths_reports
+
+not_related_or_irrelevant:
+
+144 Source: Yale graduate student with #Ebola symptoms does not have children http://t.co/lL64kUdUGR
+other_useful_information
+
+146 RT @stepuve: Warning Signs: IT HAS BEGUN IN AMERICA! (OCTOBER 2014): #ebola  ....http://t.co/6fGat9WI0N via @YouTube
+other_useful_information or it is correct
+
+834 @WEWS The CDC said that #Ebola carriers do not pose a risk if they do not have symptoms. So why do you have to wash the plane?
+disease_transmission
+
+936 Ebola: FG withdraws approval of Nano Silva for treatment | http://t.co/WEbYC7k6sG"
+affected_people
+
+1941 RT @GovernorPerry: Today I announced initial recommendations from the Texas Task Force on Infectious Disease. WATCH: http://t.co/zcrqG8vsH2â€¦
+other_useful_information
+
+other_useful_information:
+
+22 RT @FrankLuntz: "If you don't show symptoms, you are not contagious."  Shepard Smith breaks down #Ebola hysteria http://t.co/MZJEJwr0Ir
+disease_transmission
+######################really not sure whether thse should be irrelevant or useful: on what basis we decide??
+24 I used to think #Ebola was a viral disease, until #Obama authorised the Pentagon to send troops to W.Africa..
+not_related_or_irrelevant:
+
+41 Ebola is the disease people love to fear http://t.co/GFZEs6WHdi #world #news
+not_related_or_irrelevant
+
+94 "@Questionnier: On a scale of 0 - 10, how scared are you concerning the "Ebola Virus"? #QnASaturdayMorning"2
+not_related_or_irrelevant
+
+113 Which kin wicked disease be this called Ebola? God help us... #dosomethingaboutEbola http://t.co/64MJWzaU0b
+not_related_or_irrelevant
+
+128 Ebola Hysteria Raises Key Question: Who Decides Who Will Live or Die? http://t.co/ZG0PtY7lQp
+not_related_or_irrelevant
+
+190 RT @Questionnier: RT if Ebola Virus ain't your portion? #QnAFriday
+not_related_or_irrelevant
+
+360 RT @speedprayers: God we Pray for a Vaccine for Ebola virus will be found in arresting this deadly disease~IJN Amen
+not_related_or_irrelevant
+
+778 .@ChrisCoons How come you have a strategy to fight man made global warming but can't keep a deadly disease out of America? #Ebola
+not_related_or_irrelevant
+
+817 WHO | Ebola virus disease http://t.co/utaGcWIPFT
+not_related_or_irrelevant
+
+818 how is ebola just becoming a thing now like is this a new disease??????????
+
+822 @RouaWinchester  He probably created the disease   #Holyshit #Ebola http://t.co/GD6u6HjQO3
+
+961 "@WordzGame: Describe ur ex with a disease #MekoyoVsDonJazzy" ebola
+
+1079 RT @naxeerdankoli: "@Questionnier: RT if you dislike the Virus "Ebola"? #QnAFriday"everyone dislike it abi??
+1169 RT @Madsss_xxx: I pray these boko haram guys catch this Ebola disease
+1208 RT @SamanthaLeMastR: My cousin is correct. #Ebola should be renamed. It should be called #Lethe  This disease as dangerous as it gets.
+1209 RT @catanita: Concerned about Ebola? Youâ€™re worrying about the wrong disease | James Ball http://t.co/Ozd4IEndgT
+1218 RT @SamaritansPurse: "Pray that God would have mercy on West Africa and intervene to terminate this deadly disease"-Dr. Brantly http://t.coâ€¦
+1460 RT @mgrenier731: `Sometimes you need to pray hard to fight serious diseases'  #Ebola http://t.co/3b7jAm9Dqy http://t.co/xKCpimwgYm
+1489 Who is reading it?"@Questionnier: Tweet a word to the Ebola Virus? #QnAFriday"
+1558 RT @mansillo: You can't shirt front a disease #Ebola
+1609 #FactsNotFear - Is #Ebola an airborne disease? - http://t.co/dN9jnUuCpj
+disease_transmission
+1688 This ebola disease scares me
+1715 RT @Questionnier: RT if Ebola Virus ain't your portion? #QnAFriday
+1742 â€œ@Questionnier: Africans are known for? #QnAThursdayâ€Ebola
+1850 JAMB QUESTION: The Opposite of Ebola Virus Is _____ #OpoOpoVideobyETC
+
+Prevention:
+
+349 RT @CoolNerd_: RT @DatAshewoBoy: Y'all can Spread Ebola Prevention news but cant Spread God's Word..... http://t.co/D7vXd29fZS
+not_related_or_irrelevant
+373 RT @michellemalkin: Meet The Centers for Everything But Disease Control ==&gt; http://t.co/IY4UqG1hFE @CDCgov #Ebola http://t.co/ix486WzzWe
+not_related_or_irrelevant or other_useful_information
+
+508 RT @SirDarlington: I am finding that the most difficult thing to do is to speak sensibly about the disease (#ebola) without speculating or â€¦
+other_useful_information
+
+917 If I catch #Ebola in Africa what are teh chances I will die?   - http://t.co/29sPj6VEcu - #Prevention #Vaccines not linked to #Autism.
+other_useful_information
+
+953 Ebola outbreak: Global health authority warns spread of disease is now 'an international crisis' https://t.co/cY4Xf3WuHE
+other_useful_information
+
+973 Ebola: Why is it this disease we fear ?: Why does Ebola cause more concern than other deadly diseases? http://t.co/dXhI6zmhol
+other_useful_information
+
+1118 RT @Haleemah_othman: â€œ@papidangiwa: Ya Allah prevent us from this filthy Ebola disease and all other diseases.â€ Ameen ya rabbiðŸ™
+not_related_or_irrelevant or Prevention
+
+1160 RT @AkhY_Herpheez: Prayers are the best prevention to this #EBOLA and #EBELE
+not_related_or_irrelevant or Prevention
+
+1555 New York Patient Tests Negative for Ebola: A man who recently traveled to West Africa and reported symptoms si... http://t.co/rW3qp12iQe
+affected_people
+1584 Spanish Ebola patient arrives in Madrid for treatment #Health http://t.co/Tq4AGV3ATM
+treatment
+1585 RT @jogbosky: #Nigeria Fighting the 'dreaded' Ebola? @MobilePunch: Ebola disease not death sentence, says Fashola http://t.co/cGrloQkota @Tâ€¦
+other_useful_information
+
+1627 RT @CatastropheNet: Vinson had more Advanced #Ebola Symptoms than Though on Flight... More Symptoms = More Contagious http://t.co/Eu5lD6em4â€¦
+disease_transmission
+1662 2 Dead, 20 Hospitalised Over High Salt Consumption For Ebola Prevention: GistReel 2 Dead, 20 Hospitalised Over... http://t.co/warMQ7BSDM
+death_reports
+1666 RT @ritzy_jewels: WOW.. Pentagon employee that went infected area &amp; now shows signs !! http://t.co/opvHtPzY5j #Ebola #EbolaOutbreak http://â€¦
+affected_people
+1724 RT @deaduramilade: "@HisLeast: So we can spread prevention measures for Ebola virus but can't spread Jesus the cure to the world's sin httpâ€¦
+not_related_or_irrelevant or Prevention
+
+1782 "@ Mr Flouz: There's nothing funny about Ebola Virus,why don't we seek Allah's protection from the deadly disease instead."
+not_related_or_irrelevant or Prevention
+
+1829 RT @aqv21: #Obama Plans to Transfer #Ebola-infected Foreigners to U.S. for Treatment http://t.co/Se8KSMYnH5 #EbolaCzar #ccot http://t.co/xGâ€¦
+treatment
+
+1836 RT @SanaSaeed: So, I guess being white is the secret to having people give enough shit to try a new treatment to save your life from a fataâ€¦
+not_related_or_irrelevant
+
+1869 @CNN uhm maybe cos u guys are too busy checking out the Muslim passengers to worry about a carrier of a deadly disease!! #Ebola @cnnbrk
+not_related_or_irrelevant or other_useful_information
+
+1870 @rustedmankind it depends on why type on questions.
+not_related_or_irrelevant
+
+277 Inside the CDC's Ebola war room: CNN's Dr. Sanjay Gupta takes you inside the Centers for Disease Control where... http://t.co/HoTAvMk5HS
+treatment or prevention or other_useful_information
+
+1428 The Hot Zone' Author Answers Pressing Ebola Questions In A Surprising Reddit AMA http://t.co/5QXbJbP94s
+other_useful_information
+
+1433 Together we can stop #Ebola. Prevention tips here http://t.co/93K2hgnGLI - #Ebolavirus #Ebolaoutbreak #healthcare
+prevention
+
+1446 RT @martincallan: 'Ebola victim' dies in Saudi Arabia: A man being treated for Ebola-like symptoms dies in Saudi Arabia, in what... http://â€¦
+deaths_reports or treatment
+
+1510 @asr_blog Infectious disease experts concerned about #Ebola mutating and becoming airborneC http://t.co/QDy94tuG3i
+disease_transmission
+
+1553 RT @WHO: Dr Fukuda: Countries with #Ebola transmission: Head of State should declare a national emergency: WHO Emergency Committee
+other_useful_information or treatment
+
+1625 â€œ@renee_german: My question is why are they bringing people infected with the Ebola virus here?â€ Right
+other_useful_information or treatment
+
+1657 RT @Sizwe_X: RT"@prolusion02: tell him you think you have Ebola symptoms RT @OrlandoGhost: Wanna skip work tomorrow ...help me tell a lie tâ€¦
+not_related_or_irrelevant
+
+1669 Airplanes don't spread "nearly" as much diseases as we might think! @WIRED http://t.co/ks8cLukMWO
+disease_transmission
+
+1700 If I catch #Ebola in Africa what are teh chances I will die?   - http://t.co/KuuSYkQSdJ - #Prevention #Vaccines not linked to #Autism.
+other_useful_information
+
+1809 RT @michaelmark12: What's the difference between Zombies &amp; Republicans? Nothing! They're both brain dead spreading disease #Ebola #tcot
+not_related_or_irrelevant
+
+1815 RT @spenniy: Travel out of Countries with Ebola source cases should be banned. The disease is already spreading to other nations.  #Ebola
+prevention or disease_transmission
+
+1821 RT @sub150run: I'm less afraid of #Ebola, Swine Flu, SARS, Mad Cow Disease and more afraid of my girlfriend discovering the passcode to my â€¦
+not_related_or_irrelevant
+
+1876 Can Climate Change Predict Deadly Diseases Like Ebola? http://t.co/z7eJiF9zWu
+other_useful_information
+
+1999 It's too funny to watch MSNBC put an infectious disease split a screen between an infectious disease doctor and a reporter.  #derp #Ebola
+not_related_or_irrelevant
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
